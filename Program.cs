@@ -119,7 +119,7 @@ namespace MSSA_Sorting2
 
             //PrintArray(values2); //display the array
 
-            Console.WriteLine("Done sorting");
+            Console.WriteLine("Done sorting"); //notes added
         }
     }
 }
